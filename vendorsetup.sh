@@ -1,3 +1,4 @@
+add_lunch_combo du_d2vzw-userdebug
 add_lunch_combo du_d710-userdebug
 add_lunch_combo du_exhilarate-userdebug
 add_lunch_combo du_flo-userdebug
